@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on Full Stack Projects
 
-📫 Contact me at: [<img align="center" alt="LinkedIn" width="80px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/shashank-patel-70451618b/) or mail me at shashank01patel11@gmail.com
+📫 Contact me at: [<img align="center" alt="LinkedIn" width="80px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/ashish-kashyap-184291200/) or mail me at ashish.kashyap.in@gmail.com
 
 ⚡ Fun fact: Music is always running in the background.
 
