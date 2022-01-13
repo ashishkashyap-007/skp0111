@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am <a href="https://www.linkedin.com/in/shashank-patel-70451618b/">Shashank Patel </a></h1>
+<h1 align="center"> Hello, I am <a href="https://www.linkedin.com/in/ashish-kashyap-184291200/">Ashish Kashyap </a></h1>
 
 🔭 I’m currently working on a Full Stack Instagram Clone
 
